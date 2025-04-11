@@ -29,4 +29,4 @@ A feature-rich, scalable real estate platform built with the MERN stack (MongoDB
 ---
 
 ## 📂 Project Structure
-
+real-estate-app/ ├── client/ # React Frontend │ ├── src/components/ # Reusable components │ ├── src/pages/ # Route pages │ └── src/hooks/ # Custom React hooks ├── server/ # Express Backend │ ├── controllers/ # API logic │ ├── models/ # Mongoose schemas │ ├── routes/ # API routes │ ├── middlewares/ # Auth and validation │ └── socket/ # WebSocket setup ├── .env # Environment variables ├── README.md # Project overview └── package.json # Project metadata
